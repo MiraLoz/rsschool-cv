@@ -1,1 +1,1 @@
-https://MiraLoz.github.io/rsschool-cv-html
+https://MiraLoz.github.io/rsschool-cv
